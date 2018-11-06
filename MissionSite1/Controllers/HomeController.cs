@@ -11,6 +11,7 @@ namespace MissionSite1.Controllers
         // GET: Home
         public ActionResult Index()
         {
+            //test
             return View();
         }
     }
